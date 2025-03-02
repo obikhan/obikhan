@@ -5,6 +5,6 @@
   - 
 - <b>Password Strength Checker</b>
   - 
-- <b>Secure File Encryption Tool</b>
+- [Secure File Encryption Tool](https://github.com/obikhan/secure-file-encryption-tool)
   - 
 
